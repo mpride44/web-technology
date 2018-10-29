@@ -1,0 +1,39 @@
+.bimage{
+	background-image: url('event.jpg');
+	background-size: 100% 100%;
+	width: 100%;
+	height: 600px;
+}
+.round{
+	  /*border: 2px solid darkcyan*/;
+    border-radius: 11px;
+    background-color: white;
+     min-height: 400px;
+    margin-left: 100px;padding-left: 0;padding-right: 0;
+       box-shadow: 8px 8px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.side{
+	padding-left: 25px;
+}
+.foot{
+	background-image: url('f1.jpeg');
+	width: 100%;
+	height: 100%;
+	filter: grayscale(80%);
+	background-color: rgba(0,0,0,0.2);
+}
+.box{
+	border-radius: 8px;
+	background-color: rgba(0,0,0,0.5);
+}
+.icon{
+border-radius: 50%;
+background-color: blue;
+width: 35px;
+height: 35px;
+float: right;
+padding-left: 10px;
+padding-top: 7px;
+margin-top: -10px;
+
+}

@@ -1,0 +1,9 @@
+.bimage{
+background-image: url('train_bimage1.jpg');
+background-size: 100% 100%;
+width: 100%;
+min-height: 100vh;
+}
+.list{
+	/*margin-top: 50px;*/
+}
